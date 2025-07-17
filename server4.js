@@ -1,1 +1,1 @@
-console.log('1234 test good')
+console.log('test and main good')
